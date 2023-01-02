@@ -3,7 +3,7 @@
 Implemented the Least Square Curve-fitting algorithm in c++. The program reads the input from the file called as the points.txt
 and prints the segments in the optimal solution at console.
 E.g. for points P consists of 6 points, as follows:
-1.4 2.3 
+1.4 2.3\n 
 1.5 2.6 
 1.7 3.1 
 2.2 3.5 
